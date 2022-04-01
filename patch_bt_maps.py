@@ -1,3 +1,9 @@
+#
+# Copyright (C) 2022 Jan Olderdissen
+# 
+# See LICENSE file for licensing details.
+#
+
 import struct
 
 FILE_OFFSET_ADDRESS = 0xc
